@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Output files (contain user data)
+comment_results_*.txt
+comment_results_*.json
+
+# IDE
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
